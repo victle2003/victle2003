@@ -32,7 +32,7 @@
 
 ## My Projects:
 
-<h3 align='center'>FrontendMentor challenges:</h3>
+<h3 align='center'>🌎 FrontendMentor challenges:</h3>
 
 #### 💻 [Crowdfunding page][crowdfundingpage]
 An interactive crowdfunding page made using vanilla Javascript, CSS3 and HTML5. It contains dynamic containers that refresh according to the user's input.
@@ -43,7 +43,7 @@ A simple landing page for a social media app made using CSS3 and HTML5.
 <br />
 <br />
 
-<h3 align='center'>Personal projects:</h3>
+<h3 align='center'> 📝 Personal projects:</h3>
 
 #### 📕 [Tsuki-Webpage][tsukipage]
 The official [Tsuki-App][tsukiapp] webpage used to show information related to anime and manga, made using CSS3, HTML5 and Javascript. It allows the user to search for specific titles, stay up-to-date with the latest related news, check what new titles are coming during the season, and see a list of all-time top rated animes.
