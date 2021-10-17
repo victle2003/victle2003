@@ -1,6 +1,4 @@
-## Hey there, I'm Victor 👋
-
-<h2 align='center'>Hey there, I'm Victor 👋</h2>
+<h1 align='center'>Hey there, I'm Victor 👋</h1>
 
 ## I'm a high school student living in the US who likes to code learn, and play videogames 
 
@@ -11,6 +9,7 @@
 
 ### Here's some of my social media:
 
+<div background-color='white' width='22px' height='22px'></div>
 [<img align="left" alt="victle2003" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profile]
 
 [<img align="left" alt="victle_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
