@@ -1,4 +1,6 @@
-### 🧑 Hi there, I'm Victor 👋
+## Hey there, I'm Victor 👋
+
+<h2 align='center'>Hey there, I'm Victor 👋</h2>
 
 ## I'm a high school student living in the US who likes to code learn, and play videogames 
 
@@ -7,7 +9,7 @@
 - 👯 I’m also looking forward to creating such projects with anyone interested
 - 📅 By the end of 2021, I’m willing to have a good grasp of how Javascript works
 
-### Social Media:
+### Here's some of my social media:
 
 [<img align="left" alt="victle2003" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profile]
 
