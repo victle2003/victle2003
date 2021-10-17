@@ -28,21 +28,26 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ## My Projects:
 
-<h4 align='center'>FrontendMentor challenges:</h4>
+<h3 align='center'>FrontendMentor challenges:</h3>
 
 #### 💻 Crowdfunding page
+An interactive crowdfunding page made using vanilla Javascript, CSS3 and HTML5. It contains dynamic containers that refresh according to the user's input.
 #### 🍊 Sunnyside landing page
+A simple yet beautiful landing page for a visual design company made using CSS3, HTML5 and a little bit of Javascript. The most important part of the webpage is its responsive design.
+<br />
 
-<h4 align='center'>Personal projects:</h4>
+<h3 align='center'>Personal projects:</h3>
 
-#### 📕 [Tsuki webpage][tsukipage]
-
+#### 📕 [Tsuki-Webpage][tsukipage]
+The official [Tsuki-App][tsukiapp] webpage used to show information related to anime and manga, made using CSS3, HTML5 and Javascript. It allows the user to search for specific titles, stay up-to-date with the latest related news, check what new titles are coming during the season, and see a list of all-time top rated animes.
 
 
 [profile]: https://github.com/victle2003
 [instagram]: https://www.instagram.com/victle_/
 [tsukipage]: https://tsukiapp.github.io/Tsuki-Webpage/
+[tsukiapp]: https://github.com/Tsukiapp
                                
