@@ -10,6 +10,7 @@
 ### Here's some of my social media:
 
 <div background-color='white' width='22px' height='22px'></div>
+
 [<img align="left" alt="victle2003" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][profile]
 
 [<img align="left" alt="victle_ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
