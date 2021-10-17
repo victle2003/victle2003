@@ -1,6 +1,8 @@
 <h1 align='center'>Hey there, I'm Victor 👋</h1>
 
-## I'm a high school student living in the US who likes to code learn, and play videogames 
+## About me:
+
+### I'm a high school student living in the US who likes to code learn, and play videogames 
 
 - 💻 I’m currently learning Javascript and getting used to Git/GitHub
 - 🧭 My main focus right now is to create useful apps and browser games to strengthen my knowledge
@@ -15,7 +17,7 @@
 
 <br />
 
-### Languages and tools I use:
+### Languages and tools I currently use:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -24,6 +26,19 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+## My Projects:
+
+### FrontendMentor Challenges:
+
+#### 💻 Crowdfunding page
+#### 🍊 Sunnyside landing page
+
+### Personal projects:
+
+#### Tsuki webpage
+
+
 
 [profile]: https://github.com/victle2003
 [instagram]: https://www.instagram.com/victle_/
