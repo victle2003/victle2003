@@ -2,12 +2,12 @@
 
 ## About me:
 
-### I'm a high school student living in the US who likes to code learn, and play videogames 
+### I'm a high school graduate living in the US who likes to code, learn, and play videogames 
 
 - 💻 I’m currently learning Javascript and getting used to Git/GitHub
 - 🧭 My main focus right now is to create useful apps and browser games to strengthen my knowledge
 - 👯 I’m also looking forward to creating such projects with anyone interested
-- 📅 By the end of 2021, I’m willing to have a good grasp of how Javascript works
+- 📅 By the end of 2022, I’m willing to have a good grasp on how Javascript works, and include new frameworks and languages in my projects
 
 ### Here's some of my social media:
 
