@@ -7,7 +7,7 @@
 - 💻 I’m currently learning Javascript and getting used to Git/GitHub
 - 🧭 My main focus right now is to create useful apps and browser games to strengthen my knowledge
 - 👯 I’m also looking forward to creating such projects with anyone interested
-- 📅 By the end of 2024, I’m willing to have a good grasp on how Javascript works, and include new frameworks and languages in my projects
+- 📅 By the end of 2024, I'm planning on having included new frameworks and languages in my projects
 
 ### Here's some of my social media:
 
@@ -56,7 +56,7 @@ The official [Tsuki-App][tsukiapp] webpage used to show information related to a
 Feel free to visit my repos and contact me in case of any kind of feedback or criticism!
 
 [profile]: https://github.com/victle2003
-[instagram]: https://www.instagram.com/victle_/
+[instagram]: https://www.instagram.com/victor.leal7/
 
 [crowdfundingpage]: https://victle2003.github.io/Crowdfunding-product-page/
 [sunnysidepage]: https://victle2003.github.io/Sunnyside-landing-page/
