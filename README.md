@@ -45,6 +45,12 @@ A simple landing page for a social media app made using CSS3 and HTML5.
 
 <h3 align='center'> 📝 Personal projects:</h3>
 
+#### 👤 [Personal-Webpage][personalpage]
+A simple webpage built and designed by me with HTML5 and CSS3 displaying my main web development projects and accomplishments, as well as other hobbies and passions of mine. 
+
+<br />
+<br />
+
 #### 📕 [Tsuki-Webpage][tsukipage]
 The official [Tsuki-App][tsukiapp] webpage used to show information related to anime and manga, made using CSS3, HTML5 and Javascript. It allows the user to search for specific titles, stay up-to-date with the latest related news, check what new titles are coming during the season, and see a list of all-time top rated animes.
 
@@ -61,6 +67,7 @@ Feel free to visit my repos and contact me in case of any kind of feedback or cr
 [crowdfundingpage]: https://victle2003.github.io/Crowdfunding-product-page/
 [sunnysidepage]: https://victle2003.github.io/Sunnyside-landing-page/
 [huddlepage]: https://victle2003.github.io/Huddle-landing-page/
+[personalpage]: https://victle2003.github.io/personal-webpage/
 [tsukipage]: https://tsukiapp.github.io/Tsuki-Webpage/
 
 [tsukiapp]: https://github.com/Tsukiapp
