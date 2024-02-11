@@ -45,7 +45,7 @@ A simple landing page for a social media app made using CSS3 and HTML5.
 
 <h3 align='center'> 📝 Personal projects:</h3>
 
-#### 👤 [Personal-Webpage][personalpage]
+#### 👤 [Personal-Webpage][personalpage] (Latest project!)
 A simple webpage built and designed by me with HTML5 and CSS3 displaying my main web development projects, accomplishments, and other hobbies and passions of mine. I will be updating it as time passes to showcase more of my abilities. 
 
 <br />
