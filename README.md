@@ -2,10 +2,10 @@
 
 ## About me:
 
-### I'm a high school graduate living in the US who likes to code, learn, and play videogames 
+### I'm a high school graduate living in the US who likes to code, learn, lift weights, and play video games. 
 
-- 💻 I’m currently learning Javascript and getting used to Git/GitHub
-- 🧭 My main focus right now is to create useful apps and browser games to strengthen my knowledge
+- 💻 I’m currently polishing my Javascript and getting more used to Git/GitHub
+- 🧭 My main focus is to create useful apps and browser games to expand and strengthen my knowledge 
 - 👯 I’m also looking forward to creating such projects with anyone interested
 - 📅 By the end of 2024, I'm planning on having included new frameworks and languages in my projects
 
@@ -35,9 +35,9 @@
 <h3 align='center'>🌎 FrontendMentor challenges:</h3>
 
 #### 💻 [Crowdfunding page][crowdfundingpage]
-An interactive crowdfunding page made using vanilla Javascript, CSS3 and HTML5. It contains dynamic containers that refresh according to the user's input.
+An interactive crowdfunding page made using vanilla Javascript, CSS3, and HTML5. It contains dynamic containers that refresh according to the user's input.
 #### 🍊 [Sunnyside landing page][sunnysidepage]
-A simple yet beautiful landing page for a visual design company made using CSS3, HTML5 and a little bit of Javascript. The most important part of the webpage is its responsive design.
+A simple yet beautiful landing page for a visual design company made using CSS3, HTML5, and a little bit of Javascript. The most important part of the webpage is its responsive design.
 #### 💭 [Huddle landing page][huddlepage]
 A simple landing page for a social media app made using CSS3 and HTML5.
 <br />
@@ -46,20 +46,20 @@ A simple landing page for a social media app made using CSS3 and HTML5.
 <h3 align='center'> 📝 Personal projects:</h3>
 
 #### 👤 [Personal-Webpage][personalpage]
-A simple webpage built and designed by me with HTML5 and CSS3 displaying my main web development projects and accomplishments, as well as other hobbies and passions of mine. 
+A simple webpage built and designed by me with HTML5 and CSS3 displaying my main web development projects, accomplishments, and other hobbies and passions of mine. I will be updating it as time passes to showcase more of my abilities. 
 
 <br />
 <br />
 
 #### 📕 [Tsuki-Webpage][tsukipage]
-The official [Tsuki-App][tsukiapp] webpage used to show information related to anime and manga, made using CSS3, HTML5 and Javascript. It allows the user to search for specific titles, stay up-to-date with the latest related news, check what new titles are coming during the season, and see a list of all-time top rated animes.
+The official [Tsuki-App][tsukiapp] webpage is used to show information related to anime and manga, made using CSS3, HTML5, and Javascript. It allows the user to search for specific titles, stay up-to-date with the latest related news, check what new titles are coming during the season, and see a list of all-time top-rated animes.
 
 <br />
 <br />
 
 ## That's it!
 
-Feel free to visit my repos and contact me in case of any kind of feedback or criticism!
+Feel free to visit my repos and contact me in case of any feedback or criticism!
 
 [profile]: https://github.com/victle2003
 [instagram]: https://www.instagram.com/victor.leal7/
